@@ -45,15 +45,6 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://medium.com/@YOUR_MEDIUM_HANDLE" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -62,7 +53,6 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 </a>
 </p>
 
-> Note: GitHub badges can't auto-display live subscriber/follower counts — you'll need to add your actual YouTube channel ID / Instagram username to a service like `img.shields.io/badge/dynamic` or a third-party counter if you want live numbers shown. The badges above are static; swap in your real handles.
 
 ---
 
@@ -79,13 +69,7 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sujay2124&theme=darkhub&no-frame=true&row=1&column=7)
-
-</div>
 
 ---
 
