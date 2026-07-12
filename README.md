@@ -1,6 +1,5 @@
 <div align="start">
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi, I'm Sujay Gade
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+React+%7C+MySQL+Enthusiast;Turning+Ideas+Into+Code%2C+One+Commit+at+a+Time;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi, I'm Sujay Gade
 </div>
 
 ---
