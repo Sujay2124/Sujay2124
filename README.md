@@ -51,14 +51,12 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 </a>
 </p>
 ---
----
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 I'm always up for a good conversation about code, data, or content creation. Feel free to reach out on any of the platforms above — let's build something great together!
 
 <div align="center">
 
 **Thanks for Visiting  Happy coding! 🚀**
----
 
 </div>
