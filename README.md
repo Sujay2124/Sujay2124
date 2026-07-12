@@ -39,8 +39,8 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-🌐 Connect With Me
+---
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
@@ -51,6 +51,7 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 </a>
 </p>
 ---
+---
 ## 🤝 Let's Connect
 
 I'm always up for a good conversation about code, data, or content creation. Feel free to reach out on any of the platforms above — let's build something great together!
@@ -58,5 +59,6 @@ I'm always up for a good conversation about code, data, or content creation. Fee
 <div align="center">
 
 **Thanks for Visiting  Happy coding! 🚀**
+---
 
 </div>
