@@ -5,7 +5,8 @@
 ---
 
 ## 🚀 About Me
-Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence & Data Science.<br><br>💻 Passionate about Python, Data Analytics, Machine Learning, Generative AI, and Full-Stack Development.
+Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence & Data Science.
+- 💻 Passionate about Python, Data Analytics, Machine Learning, Generative AI, and Full-Stack Development.
 - 🔭 Currently building full-stack projects with **React JS**, **Python**, and **MySQL**
 - 📊Skilled in Python, SQL, Power BI, Excel, HTML, CSS, and JavaScript.
 - 🚀 Interested in building AI-powered applications, data-driven solutions, and   
@@ -51,27 +52,7 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
-
-
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujay2124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujay2124&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujay2124&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-
-
----
-
 ## 🤝 Let's Connect
 
 I'm always up for a good conversation about code, data, or content creation. Feel free to reach out on any of the platforms above — let's build something great together!
