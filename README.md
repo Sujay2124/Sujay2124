@@ -1,8 +1,5 @@
 <div align="start">
 
-<!-- SECTION A: ANIMATED HEADER -->
-![Wave](https://raw.githubusercontent.com)
-
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30%">
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi, I'm Sujay Gade
