@@ -27,7 +27,6 @@ I'm **Sujay Gade**, a Full Stack Developer with **1 year of hands-on experience*
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend & Database**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -94,8 +93,6 @@ I'm always up for a good conversation about code, data, or content creation. Fee
 
 <div align="center">
 
-**Thanks for stopping by — happy coding! 🚀**
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+**Thanks for Visiting  Happy coding! 🚀**
 
 </div>
