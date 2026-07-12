@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sujay2124&color=blueviolet&style=flat-square)
-
 <!-- SECTION A: ANIMATED HEADER -->
 ![Wave](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50%">
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi, I'm Sujay Gade
 
