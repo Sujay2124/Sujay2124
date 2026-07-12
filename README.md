@@ -7,7 +7,7 @@
 ## 🚀 About Me
 Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence & Data Science.<br><br>💻 Passionate about Python, Data Analytics, Machine Learning, Generative AI, and Full-Stack Development.
 - 🔭 Currently building full-stack projects with **React JS**, **Python**, and **MySQL**
-- 📊Skilled in Python, SQL, Power BI, Excel, HTML, CSS, and JavaScript.<br><br>
+- 📊Skilled in Python, SQL, Power BI, Excel, HTML, CSS, and JavaScript.
 - 🚀 Interested in building AI-powered applications, data-driven solutions, and   
       scalable web applications.
 - 🌱 Constantly leveling up my skills — 1 year in, and just getting started,expanding my knowledge in Data Science, AI Engineering, and modern 
