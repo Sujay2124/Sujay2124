@@ -5,15 +5,16 @@
 ---
 
 ## 🚀 About Me
-
-I'm **Sujay Gade**, a Full Stack Developer with **1 year of hands-on experience** building web applications and working with data. I love turning ideas into clean, working products — and sharing what I learn along the way through content creation on **YouTube**, **Medium**, and **Instagram**.
-
+Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence & Data Science.<br><br>💻 Passionate about Python, Data Analytics, Machine Learning, Generative AI, and Full-Stack Development.
 - 🔭 Currently building full-stack projects with **React JS**, **Python**, and **MySQL**
-- 📊 Passionate about data — from **Power BI dashboards** to **Excel deep-dives**
+- 📊Skilled in Python, SQL, Power BI, Excel, HTML, CSS, and JavaScript.<br><br>🚀 Interested in building AI-powered applications, data-driven solutions, and   
+  scalable web applications.
 - ✍️ I write & create content to help others learn tech (YouTube / Medium / Instagram)
-- 🌱 Constantly leveling up my skills — 1 year in, and just getting started
+- 🌱 Constantly leveling up my skills — 1 year in, and just getting started,expanding my knowledge in Data Science, AI Engineering, and modern software    
+  development.
 - ⚡ Fun fact: I enjoy explaining complex things in the simplest way possible
-- 🤝 Open to collaborating on interesting full-stack & data projects
+- 💼 Open to opportunities as a Data Analyst, AI Engineer, Python Developer, or Full-Stack Developer.<br><br>
+- 📫 Feel free to explore my repositories and connect with me!
 
 ---
 
