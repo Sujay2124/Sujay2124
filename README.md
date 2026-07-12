@@ -50,7 +50,7 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
----
+
 🤝 Let's Connect
 
 I'm always up for a good conversation about code, data, or content creation. Feel free to reach out on any of the platforms above — let's build something great together!
