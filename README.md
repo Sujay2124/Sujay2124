@@ -13,7 +13,7 @@ Hi there, I'm Sujay 👋<br><br>🎓 B.Tech Graduate in Artificial Intelligence 
 - 🌱 Constantly leveling up my skills — 1 year in, and just getting started,expanding my knowledge in Data Science, AI Engineering, and modern 
       software development.
 - ⚡ Fun fact: I enjoy explaining complex things in the simplest way possible
-- 💼 Open to opportunities as a Data Analyst, AI Engineer, Python Developer, or Full-Stack Developer.<br><br>
+- 💼 Open to opportunities as a Data Analyst, AI Engineer, Python Developer, or Full-Stack Developer.
 - 📫 Feel free to explore my repositories and connect with me!
 
 ---
